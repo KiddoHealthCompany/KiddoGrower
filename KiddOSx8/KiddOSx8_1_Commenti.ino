@@ -54,6 +54,14 @@
 /* Ci auguriamo che il progetto sia gradito da tutti e che possa essere d'aiuto.
  * Se avete bisogno di contattarci scrivete alla seguente mail:
  * KiddoHealthCompany@gmail.com
+ * 
+ * E' importantissimo scaricare le seguenti librerie:
+ * libreria per comunicazione I2C - Wire.h
+ * libreria Adafruit per RTC - RTClib.h
+ * libreria Adafruit per Oled - Adafruit_SSD1306.h (accettando di installare anche quelle ausiliarie)
+ * libreria Groove per BME 280 - Seeed_BME280.h
+ * libreria SparkFun per MAX30102 - MAX30105.h
+ * libreria Adafruit per MLX90614 - Adafruit_MLX90614.h
 */
  
 /*°#°#°#°#°#°#°°#°#°#°#°#°#°°#°#°#°#°#°#° FINE SEZIONE COMMENTI °#°#°#°#°#°#°°#°#°#°#°#°#°°#°#°#°#°#°#°*/
